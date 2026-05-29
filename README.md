@@ -3,7 +3,7 @@
 # Netflix Dashboard - Tableau
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Netflix Dashboard](./Netflix%20Dashboard.png)
 
 ## Tools Used
 - Tableau
